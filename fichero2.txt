@@ -1,1 +1,1 @@
-ECHO est  activado.
+Primera línea de fichero2
